@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: explore_and_learn
+  pool: 5
+  username: pavan
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: explore_and_learn_test
+  pool: 5
+  username: pavan
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: explore_and_learn_production
+  pool: 5
+  username: pavan
+  password:

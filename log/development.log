@@ -867,3 +867,3044 @@ Processing by PagesController#welcome as HTML
 Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 3645)
 
 
+Started GET "/" for ::1 at 2020-06-03 11:47:01 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.6ms | Allocations: 1207)
+Completed 200 OK in 39ms (Views: 34.2ms | ActiveRecord: 0.0ms | Allocations: 7224)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 12:59:20 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.0ms | Allocations: 1011)
+Completed 200 OK in 22ms (Views: 17.7ms | ActiveRecord: 0.0ms | Allocations: 4042)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:00:42 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1012)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4043)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:00:51 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1010)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 4035)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:01:07 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.3ms | Allocations: 1010)
+Completed 200 OK in 15ms (Views: 13.7ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:01:52 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1011)
+Completed 200 OK in 11ms (Views: 9.9ms | ActiveRecord: 0.0ms | Allocations: 4033)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:17:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.7ms | Allocations: 1011)
+Completed 200 OK in 19ms (Views: 15.5ms | ActiveRecord: 0.0ms | Allocations: 4041)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:17:46 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.7ms | Allocations: 1010)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:18:00 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.7ms | Allocations: 1010)
+Completed 200 OK in 10ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 4029)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:18:04 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1010)
+Completed 200 OK in 9ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4031)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:18:15 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1010)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 4037)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:18:28 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.1ms | Allocations: 1010)
+Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms | Allocations: 4031)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:19:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1010)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4035)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:20:04 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.8ms | Allocations: 1010)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 4031)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:21:09 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1010)
+Completed 200 OK in 9ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4035)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:21:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1010)
+Completed 200 OK in 13ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 4023)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:22:14 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1010)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4041)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:22:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1010)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4033)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:22:45 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1010)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:22:54 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1010)
+Completed 200 OK in 13ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:24:29 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1010)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4047)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:27:15 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1010)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4025)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 13:27:26 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1010)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms | Allocations: 4042)
+
+
+Started GET "/" for ::1 at 2020-06-03 13:57:56 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1010)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 4029)
+
+
+Started GET "/" for ::1 at 2020-06-03 13:59:26 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1010)
+Completed 200 OK in 10ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4035)
+
+
+Started GET "/" for ::1 at 2020-06-03 13:59:32 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1010)
+Completed 200 OK in 11ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 4023)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:06:17 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.4ms | Allocations: 1010)
+Completed 200 OK in 21ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
+  [1m[35m (5.0ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3608755482648692145)[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateUsers (20200603084514)
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (9.6ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE UNIQUE INDEX  "index_users_on_email" ON "users"  ("email")[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE UNIQUE INDEX  "index_users_on_reset_password_token" ON "users"  ("reset_password_token")[0m
+  [1m[36mprimary::SchemaMigration Create (0.6ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20200603084514"]]
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(3608755482648692145)[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for ::1 at 2020-06-03 14:24:32 +0530
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.7ms | Allocations: 1501)
+Completed 200 OK in 31ms (Views: 23.5ms | ActiveRecord: 0.0ms | Allocations: 7686)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-06-03 14:24:38 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.3ms | Allocations: 614)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 42.3ms | Allocations: 8983)
+Completed 200 OK in 63ms (Views: 48.5ms | ActiveRecord: 3.4ms | Allocations: 19694)
+
+
+Started GET "/users/sign_up" for ::1 at 2020-06-03 14:24:42 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 1.0ms | Allocations: 206)
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 124)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 5.2ms | Allocations: 1864)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 5907)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-06-03 14:24:48 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1076)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 4507)
+
+
+Started GET "/users/sign_up" for ::1 at 2020-06-03 14:24:53 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 15)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 78)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1081)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 4436)
+
+
+Started POST "/users" for ::1 at 2020-06-03 14:25:06 +0530
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"authenticity_token"=>"au846rCyTypUAyGqC9wh3iF+h4FHaNUq45XddokUY9qYf71DVNcWMIcvmx3zokJc+L5UTeLv2TDZ5uiehdO3tg==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (2.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists? (2.0ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (3.1ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "pvnswamy74@gmail.com"], ["encrypted_password", "$2a$11$xdDY3LIwAttnllriFrjAku7/m4h5tjg2duXELt1TcyCCPVBmGHwZ."], ["created_at", "2020-06-03 08:55:06.902173"], ["updated_at", "2020-06-03 08:55:06.902173"]]
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 661ms (ActiveRecord: 7.8ms | Allocations: 11479)
+
+
+Started GET "/" for ::1 at 2020-06-03 14:25:06 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.5ms | Allocations: 2148)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.4ms | Allocations: 5247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:27:35 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.5ms | Allocations: 2205)
+Completed 200 OK in 18ms (Views: 16.3ms | ActiveRecord: 0.3ms | Allocations: 6298)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 14:27:38 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"sasfzA9iw8Sk/CcPi6ssyMGJo8b3jbMGtMte7t9phqxZFYhrp35Tlo3knhlfeM2jZ90/+g9kB5cFZWxqBpC4Zw=="}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 18ms (ActiveRecord: 1.0ms | Allocations: 5674)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:27:38 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1163)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4230)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:27:41 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.5ms | Allocations: 523)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1901)
+Completed 200 OK in 15ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 6352)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:27:46 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"XHwGHQGGcgIU/aN1oiDm5cnDvrKn4dKmxFZXt2RkoFX1t/3SiWGtgvdb3187e4Jr2gJmBgw1nAQIabIg7G9scg==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 118ms (ActiveRecord: 0.6ms | Allocations: 4548)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:27:46 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.2ms | Allocations: 2011)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.3ms | Allocations: 5098)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 14:27:49 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"0nlvwNxmy+NGYmEPW8QaXdnLjt6U9LXGz7TJ7AMelrOX3jIEgqMF/QljWGI9WWfV3peUjThIE1VbVkavNGrpSA=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.5ms | Allocations: 2629)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:27:50 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.7ms | Allocations: 1159)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 14:27:52 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.7ms | Allocations: 197)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 80)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 3.7ms | Allocations: 1735)
+Completed 200 OK in 12ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 5729)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 14:29:15 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.3ms | Allocations: 197)
+  Rendered devise/shared/_links.html.erb (Duration: 0.9ms | Allocations: 467)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 3.7ms | Allocations: 2258)
+Completed 200 OK in 14ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 7016)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:29:20 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1351)
+Completed 200 OK in 13ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 5033)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:29:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 14.0ms | Allocations: 1157)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms | Allocations: 4224)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 14:29:24 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 15)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 79)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1086)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 4433)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:29:28 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1369)
+Completed 200 OK in 11ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 5432)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:29:34 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"4cFVuq9UG5vMilESGmoJHEpZp4nRmVjIOkeolIsGV2xGFj2XAccaxXmHaV65f/8aUXaI39TcwPms32xtGJy5nw==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 116ms (ActiveRecord: 0.7ms | Allocations: 4285)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:29:34 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.0ms | Allocations: 2011)
+Completed 200 OK in 9ms (Views: 7.3ms | ActiveRecord: 0.3ms | Allocations: 5096)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 14:29:38 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"wc4mvPHuQLvuIioPMmBKPuZ+tauHKG/izpYk/kqkQ+45xkbJY6BB+di9HyugN8VzSH9RWtSp1nl2vqgM+Pjskg=="}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 8ms (ActiveRecord: 0.8ms | Allocations: 2634)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:29:38 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1159)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:30:03 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1351)
+Completed 200 OK in 10ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 5418)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 14:30:04 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.7ms | Allocations: 197)
+  Rendered devise/shared/_links.html.erb (Duration: 1.2ms | Allocations: 467)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 5.1ms | Allocations: 2261)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 6629)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:30:07 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1369)
+Completed 200 OK in 12ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 5449)
+
+
+Started GET "/users/password/new" for 127.0.0.1 at 2020-06-03 14:30:09 +0530
+Processing by Devise::PasswordsController#new as HTML
+  Rendering devise/passwords/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 15)
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 141)
+  Rendered devise/passwords/new.html.erb within layouts/application (Duration: 2.4ms | Allocations: 991)
+Completed 200 OK in 10ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 4965)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:30:11 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 7.3ms | Allocations: 1075)
+Completed 200 OK in 19ms (Views: 15.7ms | ActiveRecord: 0.0ms | Allocations: 4477)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:30:15 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"o2rP/zXOItNgSI91dPCvOFyc7W78AbgauMJfkpWHJ8+C2wPlV7lNrhctXU+ViAeVAo9hbKJVXNwl2ntciECYDA==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 115ms (ActiveRecord: 0.3ms | Allocations: 4278)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:30:16 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.3ms | Allocations: 2011)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.2ms | Allocations: 5088)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 14:30:19 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"a/n0W6O4XfWREZcrlj36K7ySG17tFkuDeg1sbSCfTHYnQ6tGJlcz/hsnTll6Tja09aToqnon7wTgo63dJDnifQ=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 6ms (ActiveRecord: 0.2ms | Allocations: 2625)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:30:19 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1159)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:30:58 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1351)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 5433)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:07 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1356)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 5425)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:28 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 1351)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 5456)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:29 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1164)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 4227)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:30 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1155)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:31 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1705)
+Completed 200 OK in 20ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 5362)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:32 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:31:36 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.4ms | Allocations: 523)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 7.0ms | Allocations: 1899)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms | Allocations: 6353)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:31:40 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"9UHTZuR0StinYYh7YxnxQOeS4BGnD9XPF3JFf5uefF6um8hzxygjA9EzBca3tS2zAv7Af+9FK72QBgPpvvnx2Q==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 114ms (ActiveRecord: 0.3ms | Allocations: 4273)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:31:41 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 2011)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.2ms | Allocations: 5071)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:32:05 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.5ms | Allocations: 2201)
+Completed 200 OK in 14ms (Views: 11.2ms | ActiveRecord: 0.2ms | Allocations: 6281)
+
+
+Started GET "/" for ::1 at 2020-06-03 14:42:55 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  [1m[36mUser Load (4.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pages/home.html.erb:4
+  Rendered pages/home.html.erb within layouts/application (Duration: 16.5ms | Allocations: 7191)
+Completed 200 OK in 21ms (Views: 15.7ms | ActiveRecord: 4.7ms | Allocations: 10464)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2020-06-03 14:43:01 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"i9IaUyRdDB2kalsrH0f9FFZ6pz0OtrhSKGei3AyF5ujktTF3ZBR00J55+OqtFH0klQFjPg9OhxDYorBOkf3OUg=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 15ms (ActiveRecord: 0.2ms | Allocations: 2880)
+
+
+Started GET "/" for ::1 at 2020-06-03 14:43:01 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1163)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4226)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:50:43 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms | Allocations: 1488)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:43 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.4ms | Allocations: 541)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 13.0ms | Allocations: 1923)
+Completed 200 OK in 33ms (Views: 21.5ms | ActiveRecord: 0.0ms | Allocations: 11529)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:45 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1070)
+Completed 200 OK in 10ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4485)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:46 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4471)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:47 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1066)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4479)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:48 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4479)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:49 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 4481)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:50 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.0ms | Allocations: 1066)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms | Allocations: 4493)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:50 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1066)
+Completed 200 OK in 10ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4479)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:51 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4475)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:52 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1066)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4475)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:50:53 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 4483)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:51:02 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"Z+wiSMMNL/cYctEhLdobcK2yBCybJj5CvEpr7ZvczG+WDKwOHJMA3cuSRmnoTh+rszk22tkhCu6Eal10s9kMGw==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 121ms (ActiveRecord: 0.8ms | Allocations: 4440)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:51:02 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1086)
+Completed 200 OK in 10ms (Views: 5.8ms | ActiveRecord: 0.3ms | Allocations: 5775)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 14:51:10 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"XyuEe9EphNXE/gjr9mcakqA968u/eKkpIGkZRKfWGo0SpZj/SHBORBLVoW4E27Q6qdQPfrLNv4SHANVPQ2kNcQ=="}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 8ms (ActiveRecord: 0.3ms | Allocations: 2736)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 14:51:10 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms | Allocations: 751)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 14:51:10 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1071)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4496)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:07:22 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.7ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 7.1ms | Allocations: 1066)
+Completed 200 OK in 31ms (Views: 23.1ms | ActiveRecord: 0.0ms | Allocations: 4485)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:07:24 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1066)
+Completed 200 OK in 11ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4455)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:08:36 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 2.5ms | Allocations: 523)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 8.9ms | Allocations: 3831)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms | Allocations: 6167)
+
+
+  
+ActionView::Template::Error (Webpacker can't find header in /Users/pavan/workspace/explore_and_learn/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+  "application.js": "/packs/js/application-b5c3dcfce06af86f0bf4.js",
+  "application.js.map": "/packs/js/application-b5c3dcfce06af86f0bf4.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js.map"
+      ]
+    },
+    "home": {
+      "js": [
+        "/packs/js/home-cf0bf49a885f20a43892.js"
+      ],
+      "js.map": [
+        "/packs/js/home-cf0bf49a885f20a43892.js.map"
+      ]
+    }
+  },
+  "home.js": "/packs/js/home-cf0bf49a885f20a43892.js",
+  "home.js.map": "/packs/js/home-cf0bf49a885f20a43892.js.map"
+}
+):
+    26: <%= render "devise/shared/links" %>
+    27: 
+    28: 
+    29: <%= javascript_pack_tag 'header' %>
+  
+app/views/devise/sessions/new.html.erb:29
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:08:51 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.8ms | Allocations: 525)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.4ms | Allocations: 1918)
+Completed 200 OK in 18ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 6816)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:08:56 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"authenticity_token"=>"B2/VJlDL4nGZpOJmT2z55vYQIg42/tfI5wRuX41LgOzRcPhvsT6W8hR/dJe+qRt1hxal0TQu6OIIXSu+gWJ6Fw==", "user"=>{"email"=>"pvnswamy74@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "pvnswamy74@gmail.com"], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 122ms (ActiveRecord: 1.6ms | Allocations: 4382)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:08:56 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1269)
+Completed 200 OK in 10ms (Views: 6.3ms | ActiveRecord: 0.5ms | Allocations: 6439)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:15:14 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.6ms | Allocations: 1078)
+Completed 200 OK in 13ms (Views: 8.4ms | ActiveRecord: 0.8ms | Allocations: 5700)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:18:11 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1078)
+Completed 200 OK in 9ms (Views: 5.5ms | ActiveRecord: 0.4ms | Allocations: 5596)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:18:19 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1078)
+Completed 200 OK in 10ms (Views: 4.2ms | ActiveRecord: 0.2ms | Allocations: 5596)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:18:20 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1078)
+Completed 200 OK in 9ms (Views: 4.6ms | ActiveRecord: 0.2ms | Allocations: 5600)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:19:16 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1078)
+Completed 200 OK in 14ms (Views: 6.3ms | ActiveRecord: 1.0ms | Allocations: 5598)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:19:30 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1078)
+Completed 200 OK in 11ms (Views: 4.6ms | ActiveRecord: 0.4ms | Allocations: 5586)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:19:36 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1078)
+Completed 200 OK in 10ms (Views: 4.4ms | ActiveRecord: 0.6ms | Allocations: 5584)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:26:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1078)
+Completed 200 OK in 15ms (Views: 8.8ms | ActiveRecord: 1.4ms | Allocations: 5710)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:29:55 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 9.5ms | Allocations: 1276)
+Completed 200 OK in 43ms (Views: 27.4ms | ActiveRecord: 0.5ms | Allocations: 6819)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:31:29 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1084)
+Completed 200 OK in 12ms (Views: 6.7ms | ActiveRecord: 0.4ms | Allocations: 5605)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:32:57 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1078)
+Completed 200 OK in 13ms (Views: 8.6ms | ActiveRecord: 0.4ms | Allocations: 5590)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:50:18 +0530
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.0ms | Allocations: 1406)
+Completed 200 OK in 57ms (Views: 24.3ms | ActiveRecord: 7.9ms | Allocations: 16133)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:24 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1086)
+Completed 200 OK in 12ms (Views: 8.1ms | ActiveRecord: 0.3ms | Allocations: 5616)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:27 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1078)
+Completed 200 OK in 10ms (Views: 5.5ms | ActiveRecord: 0.2ms | Allocations: 5596)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:28 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1078)
+Completed 200 OK in 29ms (Views: 25.1ms | ActiveRecord: 0.3ms | Allocations: 5604)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:29 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1079)
+Completed 200 OK in 10ms (Views: 5.7ms | ActiveRecord: 0.2ms | Allocations: 5608)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:29 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  [1m[36mUser Load (3.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1079)
+Completed 200 OK in 15ms (Views: 8.7ms | ActiveRecord: 3.2ms | Allocations: 5614)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2020-06-03 15:51:31 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"qJTKa/F6JE0DK3gczTx1DbDsmOupg3FX9sFA07BGtd3bfpoeoCCib6/APFzhUu18dHdZbjYEJY5j7YRD3fy3qA=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 18ms (ActiveRecord: 0.2ms | Allocations: 4933)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:31 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms | Allocations: 754)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:51:31 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.2ms | Allocations: 619)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 13.6ms | Allocations: 2878)
+Completed 200 OK in 22ms (Views: 19.5ms | ActiveRecord: 0.0ms | Allocations: 7516)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:51:32 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.0ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1070)
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 4478)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:51:32 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1066)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4475)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:51:33 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1066)
+Completed 200 OK in 18ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4473)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:51:40 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 147)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1143)
+Completed 200 OK in 32ms (Views: 12.0ms | ActiveRecord: 6.0ms | Allocations: 10113)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:43 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1123)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4388)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:51:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:48 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 24ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 4210)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:50 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4205)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:51 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.8ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:52 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:52 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:52:52 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1155)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:53:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.3ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 15:53:13 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4490)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:53:15 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:54:38 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:54:56 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:55:32 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.2ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:55:35 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4227)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:56:13 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 4227)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:56:17 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:56:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.1ms | Allocations: 1157)
+Completed 200 OK in 18ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 15:56:26 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:16:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 31.5ms | Allocations: 1157)
+Completed 200 OK in 52ms (Views: 46.6ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:16:20 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 34.0ms | Allocations: 1157)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms | Allocations: 4225)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:16:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.1ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:16:51 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1116)
+Completed 200 OK in 13ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 5201)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:17:00 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1351)
+Completed 200 OK in 12ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 5426)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:17:59 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.6ms | Allocations: 1164)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:24:05 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4226)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:24:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:24:27 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:25:46 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:26:02 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 33.8ms | Allocations: 1157)
+Completed 200 OK in 39ms (Views: 37.7ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:26:04 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:26:14 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 4201)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:26:16 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.7ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:26:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1157)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:27:20 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4218)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:27:34 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:28:27 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:28:39 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:28:59 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1157)
+Completed 200 OK in 15ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4218)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:19 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 23.2ms | Allocations: 4560)
+Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.0ms | Allocations: 5468)
+
+
+  
+ActionView::Template::Error (Webpacker can't find home in /Users/pavan/workspace/explore_and_learn/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+  "application.js": "/packs/js/application-b5c3dcfce06af86f0bf4.js",
+  "application.js.map": "/packs/js/application-b5c3dcfce06af86f0bf4.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-872c0d6444fbc06bb2f7.js"
+      ],
+      "js.map": [
+        "/packs/js/index-872c0d6444fbc06bb2f7.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-872c0d6444fbc06bb2f7.js",
+  "index.js.map": "/packs/js/index-872c0d6444fbc06bb2f7.js.map"
+}
+):
+    1: <%= javascript_pack_tag 'home' %>
+    2: 
+    3: <nav style="text-align: right">
+    4: <% if user_signed_in? %>
+  
+app/views/pages/home.html.erb:1
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1835)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms | Allocations: 2746)
+
+
+  
+ActionView::Template::Error (Webpacker can't find home in /Users/pavan/workspace/explore_and_learn/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+  "application.js": "/packs/js/application-b5c3dcfce06af86f0bf4.js",
+  "application.js.map": "/packs/js/application-b5c3dcfce06af86f0bf4.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-872c0d6444fbc06bb2f7.js"
+      ],
+      "js.map": [
+        "/packs/js/index-872c0d6444fbc06bb2f7.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-872c0d6444fbc06bb2f7.js",
+  "index.js.map": "/packs/js/index-872c0d6444fbc06bb2f7.js.map"
+}
+):
+    1: <%= javascript_pack_tag 'home' %>
+    2: 
+    3: <nav style="text-align: right">
+    4: <% if user_signed_in? %>
+  
+app/views/pages/home.html.erb:1
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:46 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1360)
+Completed 200 OK in 16ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 5473)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:49 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1164)
+Completed 200 OK in 20ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 4232)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:50 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4205)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:50 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1155)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:52 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:54 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 16:29:57 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.4ms | Allocations: 525)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.4ms | Allocations: 1920)
+Completed 200 OK in 14ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 6411)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:29:59 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1164)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 4227)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:30:13 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 4201)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:30:15 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:30:25 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:30:26 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:31:13 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.6ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 4225)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 16:31:18 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:04:04 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.8ms | Allocations: 1157)
+Completed 200 OK in 12ms (Views: 9.9ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:04:38 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1157)
+Completed 200 OK in 12ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 4219)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:04:48 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:04:58 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1157)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms | Allocations: 4226)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:05:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4219)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:05:40 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:05:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4219)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:06:14 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.0ms | Allocations: 1157)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:06:25 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.4ms | Allocations: 1157)
+Completed 200 OK in 14ms (Views: 10.5ms | ActiveRecord: 0.0ms | Allocations: 4200)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:06:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 4225)
+
+
+Started GET "/" for ::1 at 2020-06-03 17:06:48 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 17:08:38 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.2ms | Allocations: 1157)
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 17:08:40 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4224)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 17:08:41 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 17:08:42 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1155)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4225)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:00:43 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.1ms | Allocations: 1157)
+Completed 200 OK in 14ms (Views: 11.6ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:01:10 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.7ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:01:17 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:01:24 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.0ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:01:45 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:02:06 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for ::1 at 2020-06-03 18:02:35 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.1ms | Allocations: 1157)
+Completed 200 OK in 31ms (Views: 24.7ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:04:08 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:04:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4216)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:04:42 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:06:18 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 11.2ms | Allocations: 1157)
+Completed 200 OK in 29ms (Views: 22.9ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:06:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:06:51 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.7ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4222)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:07:00 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:07:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 4207)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:08:04 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 1157)
+Completed 200 OK in 21ms (Views: 19.4ms | ActiveRecord: 0.0ms | Allocations: 4222)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:08:10 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:08:18 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:08:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1157)
+Completed 200 OK in 13ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 4205)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:08:56 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:00 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4214)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:06 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:09 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1157)
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 4205)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:28 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:30 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 20ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:09:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4219)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:10:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:14:39 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.0ms | Allocations: 1157)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:16:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:16:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.0ms | Allocations: 1157)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:16:35 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:16:42 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:18:09 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4205)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:18:54 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:20:41 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.3ms | Allocations: 1157)
+Completed 200 OK in 27ms (Views: 23.5ms | ActiveRecord: 0.0ms | Allocations: 4204)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:20:47 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:20:49 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4201)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:21:16 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 11.7ms | Allocations: 1157)
+Completed 200 OK in 35ms (Views: 25.7ms | ActiveRecord: 0.0ms | Allocations: 4225)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:21:23 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.1ms | Allocations: 1157)
+Completed 200 OK in 22ms (Views: 18.7ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:22:06 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1157)
+Completed 200 OK in 22ms (Views: 19.7ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:22:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4208)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:22:24 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:23:06 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.6ms | Allocations: 1157)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:23:11 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1157)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 4215)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:23:31 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1157)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 4219)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:25:14 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 4211)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:25:22 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:25:48 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/pavan/workspace/explore_and_learn/public/packs
+[Webpacker] Hash: 54cae4b6aa769dce0e1b
+Version: webpack 4.43.0
+Time: 4575ms
+Built at: 06/03/2020 6:25:54 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+          js/index-6b1b4832e5657c9b8f01.js   2.25 MiB        index  [emitted] [immutable]  index
+      js/index-6b1b4832e5657c9b8f01.js.map   2.13 MiB        index  [emitted] [dev]        index
+                             manifest.json  661 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+Entrypoint index = js/index-6b1b4832e5657c9b8f01.js js/index-6b1b4832e5657c9b8f01.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/index.js] 1.05 KiB {index} [built]
+[./app/javascript/src/App.css] 599 bytes {index} [built]
+[./app/javascript/src/App.js] 1.64 KiB {index} [built]
+[./app/javascript/src/Bootstrap.min.css] 609 bytes {index} [built]
+[./app/javascript/src/Routes.js] 767 bytes {index} [built]
+[./app/javascript/src/containers/Home.css] 609 bytes {index} [built]
+[./app/javascript/src/containers/Home.js] 920 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/App.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/App.css 545 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/Bootstrap.min.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/Bootstrap.min.css 354 KiB {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/containers/Home.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/containers/Home.css 856 bytes {index} [built]
+[./node_modules/webpack/buildin/amd-options.js] (webpack)/buildin/amd-options.js 80 bytes {index} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 268 hidden modules
+
+  Rendered pages/home.html.erb within layouts/application (Duration: 6266.1ms | Allocations: 3513)
+Completed 200 OK in 6273ms (Views: 6272.3ms | ActiveRecord: 0.0ms | Allocations: 6559)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:25:57 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:25:59 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.2ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:03 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:12 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:13 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1157)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:18 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4223)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:28 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 10ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4217)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 18:26:31 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1070)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4479)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:26:42 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.5ms | Allocations: 1157)
+Completed 200 OK in 13ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 18:27:11 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1157)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4213)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:18:27 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.5ms | Allocations: 1157)
+Completed 200 OK in 16ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 4221)
+
+
+Started GET "/" for ::1 at 2020-06-03 19:40:31 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.9ms | Allocations: 1357)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 0.0ms | Allocations: 5380)
+
+
+Started GET "/" for ::1 at 2020-06-03 19:41:13 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1351)
+Completed 200 OK in 14ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 5406)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:42:30 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.1ms | Allocations: 1164)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:42:40 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1111)
+Completed 200 OK in 40ms (Views: 38.4ms | ActiveRecord: 0.0ms | Allocations: 5161)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:43:01 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.7ms | Allocations: 1023)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 4058)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:43:16 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4075)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:43:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1023)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4073)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:44:11 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1023)
+Completed 200 OK in 12ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 4059)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:44:24 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1023)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 4061)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:44:32 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1023)
+Completed 200 OK in 14ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 4067)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:48:08 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1023)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4066)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:48:11 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.7ms | Allocations: 523)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1898)
+Completed 200 OK in 13ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 6331)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:48:18 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1023)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4069)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:48:21 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1023)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 4077)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:49:03 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.4ms | Allocations: 1023)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 4064)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:49:07 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 1023)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4061)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:50:27 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1023)
+Completed 200 OK in 7ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 4057)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 19:50:31 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 1.2ms | Allocations: 206)
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 125)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1867)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 5900)
+
+
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:50:34 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:55:47 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:55:51 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+[Webpacker] Compiling...
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:55:57 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/pavan/workspace/explore_and_learn/public/packs
+[Webpacker] Hash: 7655a078bd270703a697
+Version: webpack 4.43.0
+Time: 5000ms
+Built at: 06/03/2020 7:55:58 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+          js/index-6234def2c0328c5ce84f.js   2.26 MiB        index  [emitted] [immutable]  index
+      js/index-6234def2c0328c5ce84f.js.map   2.14 MiB        index  [emitted] [dev]        index
+                             manifest.json  661 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+Entrypoint index = js/index-6234def2c0328c5ce84f.js js/index-6234def2c0328c5ce84f.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/index.js] 703 bytes {index} [built]
+[./app/javascript/src/App.css] 599 bytes {index} [built]
+[./app/javascript/src/App.js] 2.12 KiB {index} [built]
+[./app/javascript/src/Bootstrap.min.css] 609 bytes {index} [built]
+[./app/javascript/src/Routes.js] 767 bytes {index} [built]
+[./app/javascript/src/containers/Home.css] 609 bytes {index} [built]
+[./app/javascript/src/containers/Home.js] 920 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/App.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/App.css 545 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/Bootstrap.min.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/Bootstrap.min.css 354 KiB {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/containers/Home.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/containers/Home.css 856 bytes {index} [built]
+[./node_modules/webpack/buildin/amd-options.js] (webpack)/buildin/amd-options.js 80 bytes {index} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 271 hidden modules
+
+  Rendered pages/home.html.erb within layouts/application (Duration: 7374.5ms | Allocations: 9413)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7388ms (Views: 7386.9ms | ActiveRecord: 0.0ms | Allocations: 13621)
+
+
+[Webpacker] Compiled all packs in /Users/pavan/workspace/explore_and_learn/public/packs
+[Webpacker] Hash: 7655a078bd270703a697
+Version: webpack 4.43.0
+Time: 3570ms
+Built at: 06/03/2020 7:56:01 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+          js/index-6234def2c0328c5ce84f.js   2.26 MiB        index  [emitted] [immutable]  index
+      js/index-6234def2c0328c5ce84f.js.map   2.14 MiB        index  [emitted] [dev]        index
+                             manifest.json  661 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+Entrypoint index = js/index-6234def2c0328c5ce84f.js js/index-6234def2c0328c5ce84f.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/index.js] 703 bytes {index} [built]
+[./app/javascript/src/App.css] 599 bytes {index} [built]
+[./app/javascript/src/App.js] 2.12 KiB {index} [built]
+[./app/javascript/src/Bootstrap.min.css] 609 bytes {index} [built]
+[./app/javascript/src/Routes.js] 767 bytes {index} [built]
+[./app/javascript/src/containers/Home.css] 609 bytes {index} [built]
+[./app/javascript/src/containers/Home.js] 920 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/App.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/App.css 545 bytes {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/Bootstrap.min.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/Bootstrap.min.css 354 KiB {index} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./app/javascript/src/containers/Home.css] ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./app/javascript/src/containers/Home.css 856 bytes {index} [built]
+[./node_modules/webpack/buildin/amd-options.js] (webpack)/buildin/amd-options.js 80 bytes {index} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 271 hidden modules
+
+  Rendered pages/home.html.erb within layouts/application (Duration: 4820.5ms | Allocations: 8840)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 4828ms (Views: 4826.7ms | ActiveRecord: 0.0ms | Allocations: 13042)
+
+
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:56:54 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:57:00 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:57:10 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1023)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 4069)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:57:11 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4067)
+
+
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:57:17 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:57:36 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:57:48 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1075)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4477)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:57:50 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4459)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:57:53 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1023)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4057)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2020-06-03 19:57:55 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.0ms | Allocations: 15)
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 78)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1081)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4408)
+
+
+Started GET "/user/sign_in" for 127.0.0.1 at 2020-06-03 19:57:58 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/user/sign_in"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:57:59 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4060)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:58:08 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1023)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4065)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:58:09 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4061)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:58:33 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1066)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 4458)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:58:53 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1066)
+Completed 200 OK in 16ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 4465)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:58:56 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 4465)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 19:59:02 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4057)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:05 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1066)
+Completed 200 OK in 10ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4463)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:08 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1066)
+Completed 200 OK in 7ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4465)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:09 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1066)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 4453)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:11 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 8.2ms | Allocations: 1066)
+Completed 200 OK in 16ms (Views: 11.8ms | ActiveRecord: 0.0ms | Allocations: 4459)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:12 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4463)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 19:59:12 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1066)
+Completed 200 OK in 8ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4453)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-06-03 20:14:21 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.6ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 9.5ms | Allocations: 1066)
+Completed 200 OK in 31ms (Views: 21.9ms | ActiveRecord: 0.0ms | Allocations: 4467)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:15:38 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1066)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 4471)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:15:51 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.7ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 4475)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:16:39 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1066)
+Completed 200 OK in 31ms (Views: 29.2ms | ActiveRecord: 0.0ms | Allocations: 4458)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:16:58 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1066)
+Completed 200 OK in 13ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 4469)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:17:02 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1066)
+Completed 200 OK in 9ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4455)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 20:17:05 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1023)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 4063)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:17:07 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.1ms | Allocations: 134)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1066)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 4459)
+
+
+Started GET "/login" for 127.0.0.1 at 2020-06-03 20:17:11 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/login"):
+  
+actionpack (6.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.0.2) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.2) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.2) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.2.2) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.5) lib/puma/configuration.rb:228:in `call'
+puma (4.3.5) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.5) lib/puma/server.rb:472:in `process_client'
+puma (4.3.5) lib/puma/server.rb:328:in `block in run'
+puma (4.3.5) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-06-03 20:17:58 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1111)
+Completed 200 OK in 19ms (Views: 17.7ms | ActiveRecord: 0.0ms | Allocations: 5171)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:18:00 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.5ms | Allocations: 2006)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms | Allocations: 4154)
+
+
+  
+ActionView::Template::Error (Webpacker can't find login in /Users/pavan/workspace/explore_and_learn/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+  "application.js": "/packs/js/application-b5c3dcfce06af86f0bf4.js",
+  "application.js.map": "/packs/js/application-b5c3dcfce06af86f0bf4.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-766fdea416fcc3342db1.js"
+      ],
+      "js.map": [
+        "/packs/js/index-766fdea416fcc3342db1.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-766fdea416fcc3342db1.js",
+  "index.js.map": "/packs/js/index-766fdea416fcc3342db1.js.map"
+}
+):
+    1: <%= javascript_pack_tag 'login' %>
+  
+app/views/devise/sessions/new.html.erb:1
+Started GET "/" for 127.0.0.1 at 2020-06-03 20:21:30 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.6ms | Allocations: 1111)
+Completed 200 OK in 30ms (Views: 24.9ms | ActiveRecord: 0.0ms | Allocations: 5171)
+
+
+Started GET "/" for 127.0.0.1 at 2020-06-03 20:21:32 +0530
+Processing by PagesController#home as HTML
+  Parameters: {"page"=>"home"}
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1023)
+Completed 200 OK in 6ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 4074)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2020-06-03 20:21:34 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.5ms | Allocations: 2003)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms | Allocations: 4151)
+
+
+  
+ActionView::Template::Error (Webpacker can't find /app/javascript/src/containers/Login.js in /Users/pavan/workspace/explore_and_learn/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+  "application.js": "/packs/js/application-b5c3dcfce06af86f0bf4.js",
+  "application.js.map": "/packs/js/application-b5c3dcfce06af86f0bf4.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b5c3dcfce06af86f0bf4.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-766fdea416fcc3342db1.js"
+      ],
+      "js.map": [
+        "/packs/js/index-766fdea416fcc3342db1.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-766fdea416fcc3342db1.js",
+  "index.js.map": "/packs/js/index-766fdea416fcc3342db1.js.map"
+}
+):
+    1: <%= javascript_pack_tag '/app/javascript/src/containers/Login.js' %>
+  
+app/views/devise/sessions/new.html.erb:1

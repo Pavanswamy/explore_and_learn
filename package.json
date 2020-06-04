@@ -1,6 +1,9 @@
 {
   "name": "explore_and_learn",
   "private": true,
+  "scripts": {
+    "start": "./bin/webpack-dev-server"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.10.1",
     "@rails/actioncable": "^6.0.0",
@@ -10,7 +13,10 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "5.1.2",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",

@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  root 'pages#welcome', page: 'home'
+  devise_for :users
+  root "pages#home", page: "home"
 end

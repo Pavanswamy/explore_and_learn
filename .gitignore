@@ -6,3 +6,4 @@
 /public/assets
 /public/packs
 /node_modules
+/log/*

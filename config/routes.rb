@@ -6,7 +6,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :auth, only: %i[create] do
         collection do
-          get "me", to: "auth#mes"
+          get "me", to: "auth#me"
           delete "logout", to: "auth#logout"
         end
       end
@@ -15,5 +15,5 @@ Rails.application.routes.draw do
     end
   end
 
-  get '*path', to: 'pages#home', via: :alls
+  get '*path', to: 'pages#home', via: :all
 end

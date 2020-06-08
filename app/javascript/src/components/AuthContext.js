@@ -23,7 +23,6 @@ class AuthProvider extends Component {
   login = (user, props, e) => {
     e.preventDefault()
 
-    AxiosHelper()
     axios.post('/api/v1/auth', { user: { ...user } }, { withCredentials: true })
     .then( _resp => {
       this.setState({ isAuth: true })
@@ -35,7 +34,6 @@ class AuthProvider extends Component {
   signup = (user, props, e) => {
     e.preventDefault()
 
-    AxiosHelper()
     axios.post('/api/v1/registrations', { user: { ...user } }, { withCredentials: true })
     .then( _resp => {
       this.setState({ isAuth: true })
@@ -47,7 +45,6 @@ class AuthProvider extends Component {
   logout = (e) => {
     e.preventDefault()
 
-    AxiosHelper()
     axios.delete('/api/v1/auth/logout')
     .then( _resp => {
       this.setState({ isAuth: false })

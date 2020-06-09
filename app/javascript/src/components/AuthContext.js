@@ -1,6 +1,8 @@
 import React, {Component, createContext} from 'react'
 import axios from 'axios'
 import Authenticate from '../utils/Auth/Authenticate'
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const AuthContext = createContext()
 
@@ -27,8 +29,9 @@ class AuthProvider extends Component {
       this.setState({ isAuth: true, accessToken: resp.headers["access-token"],
         client: resp.headers.client, uid: resp.headers.uid })
       props.history.push("/")
+      toast.success("Log-In successfull")
     })
-    .catch( err => console.log(err))
+    .catch( err => toast.error(err.message))
   }
 
   signup = (user, props, e) => {
@@ -39,8 +42,9 @@ class AuthProvider extends Component {
       this.setState({ isAuth: true, accessToken: resp.headers["access-token"],
         client: resp.headers.client, uid: resp.headers.uid })
       props.history.push("/")
+      toast.success("sign-up successfull")
     })
-    .catch( err => console.log(err))
+    .catch( err => toast.error(err.message))
   }
 
   logout = (e) => {
@@ -57,8 +61,9 @@ class AuthProvider extends Component {
     .then( _resp => {
       this.setState({ isAuth: false })
       window.location.href = '/'
+      toast.success("Logout successfull");
     })
-    .catch( err => console.log(err.message))
+    .catch( err => toast.error(err.message))
   }
 
   render() {

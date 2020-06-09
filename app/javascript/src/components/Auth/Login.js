@@ -67,7 +67,13 @@ const Login = (props) => {
   const [user, setUser] = useState({ email: '', password: '', auth: false, loading: true })
   const handleChange = (e) => setUser({ ...user, [e.target.name]: e.target.value })
 
-  console.log("props", props)
+  const validEmail = () => {
+    return (/[A-Z0-9._%+-]+@[A-Z0-9-]+.+.[A-Z]{2,4}/igm.test(user.email))
+  }
+
+  const validPassword = () => {
+    return (user.password.length >= 6)
+  }
 
   return (
     <AuthConsumer>
@@ -85,7 +91,7 @@ const Login = (props) => {
                   <label>Password</label>
                   <Input onChange={handleChange} type="password"value={user.password} placeholder="password" name="password"/>
                 </Field>
-                <LoginButton type="submit">Login</LoginButton>
+                <LoginButton type="submit" disabled={!(validEmail() && validPassword())}>Login</LoginButton>
               </Form>
             </FormContainer>
           </FormWrapper>

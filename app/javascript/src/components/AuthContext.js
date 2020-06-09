@@ -1,6 +1,5 @@
 import React, {Component, createContext} from 'react'
 import axios from 'axios'
-import AxiosHelper from '../utils/Requests/AxiosHelper'
 import Authenticate from '../utils/Auth/Authenticate'
 
 const AuthContext = createContext()

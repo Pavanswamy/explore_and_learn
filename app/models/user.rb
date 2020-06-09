@@ -1,6 +1,9 @@
 class User < ApplicationRecord
-  has_secure_password
+  extend Devise::Models
 
-  validates_presence_of :email
-  validates_uniqueness_of :email
+
+  devise :database_authenticatable, :registerable,
+         :recoverable, :rememberable, :validatable
+
+  include DeviseTokenAuth::Concerns::User
 end

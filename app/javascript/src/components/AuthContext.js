@@ -5,7 +5,7 @@ import Authenticate from '../utils/Auth/Authenticate'
 const AuthContext = createContext()
 
 class AuthProvider extends Component {
-  state = { isAuth: false, email: '' }
+  state = { isAuth: false, email: '', accessToken: '', client: '', uid: '' }
 
   constructor(props){
     super(props)
@@ -22,9 +22,10 @@ class AuthProvider extends Component {
   login = (user, props, e) => {
     e.preventDefault()
 
-    axios.post('/api/v1/auth', { user: { ...user } }, { withCredentials: true })
-    .then( _resp => {
-      this.setState({ isAuth: true })
+    axios.post('/auth/sign_in', { ...user }, { withCredentials: true })
+    .then( resp => {
+      this.setState({ isAuth: true, accessToken: resp.headers["access-token"],
+        client: resp.headers.client, uid: resp.headers.uid })
       props.history.push("/")
     })
     .catch( err => console.log(err))
@@ -33,9 +34,10 @@ class AuthProvider extends Component {
   signup = (user, props, e) => {
     e.preventDefault()
 
-    axios.post('/api/v1/registrations', { user: { ...user } }, { withCredentials: true })
-    .then( _resp => {
-      this.setState({ isAuth: true })
+    axios.post('/auth/', { ...user }, { withCredentials: true })
+    .then( resp => {
+      this.setState({ isAuth: true, accessToken: resp.headers["access-token"],
+        client: resp.headers.client, uid: resp.headers.uid })
       props.history.push("/")
     })
     .catch( err => console.log(err))
@@ -44,12 +46,19 @@ class AuthProvider extends Component {
   logout = (e) => {
     e.preventDefault()
 
-    axios.delete('/api/v1/auth/logout')
+    axios.delete('/auth/sign_out', {
+        data: {
+          'access-token': this.state.accessToken,
+          "client": this.state.client,
+          "uid": this.state.uid
+        }
+      }
+    )
     .then( _resp => {
       this.setState({ isAuth: false })
       window.location.href = '/'
     })
-    .catch( err => console.log(err))
+    .catch( err => console.log(err.message))
   }
 
   render() {
